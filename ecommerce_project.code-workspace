@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../html/ecommerce_project"
+		},
+		{
+			"path": "../../html/CSS_Course"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webpage_development_1"
+	}
+}
